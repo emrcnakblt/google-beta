@@ -1,0 +1,60 @@
+.container {
+    text-align: center; /* logo ortada olur*/
+
+}
+
+.searchArea{
+    width: 30%;
+    background-color: rgb(41, 145, 230);
+    position: relative; bottom: 1em; left: 5%; margin-top: 0;
+
+}
+
+.oneDiv { 
+    width: 35%;/* kutuların genişliği*/        
+    height: 70px;/* kutuların uzunluğu*/
+    background-color:  #25d0ca;    
+    padding: auto;
+    float: left;
+    margin: 1px 75px;
+    padding: 3px;
+    font-size: 13px;
+    
+}
+
+.twoDiv {
+    width: 15%;/* kutuların genişliği*/
+    height: 70px;/* kutuların uzunluğu*/
+    background-color:  #25d0ca;    
+    padding: auto;
+    float: none;
+    margin: 1px 615px;
+    padding: 3px;
+    font-size: 13px;
+    
+}
+
+.thirdDiv {
+    width: 38.7%;/* kutuların genişliği*/
+    height: 70px;/* kutuların uzunluğu*/
+    background-color:  #25d0ca;    
+    padding: auto;
+    float:none;
+    /* margin:auto; */
+    margin-top:-76px;
+    margin-left: 850px;
+    padding: 3px;
+    font-size: 13px;
+
+} 
+ 
+
+
+
+.bg-gray {
+    margin: auto;
+    width: 90%;
+    background-color: rgb(240, 234, 234);
+}
+
+
